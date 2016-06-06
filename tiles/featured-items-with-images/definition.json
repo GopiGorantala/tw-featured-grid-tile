@@ -1,0 +1,16 @@
+{
+    "displayName" : "Featured Items with Images",
+    "name" : "featured-items-with-images",
+    "description" : "Display important links in a set of tiles with image backgrounds",
+    "style": "CUSTOM_VIEW",
+    "displayWidth" : "WIDE",
+    "dataProviderKey": "internal",
+    "pageTypes" : [ "PLACE", "USER" ],
+    "icons": {
+        "16": "https://community.jivesoftware.com/servlet/JiveServlet/showImage/102-99994-1-1023036/j.png",
+        "48": "https://community.jivesoftware.com/servlet/JiveServlet/showImage/102-99994-1-1023036/j.png",
+        "128": "https://community.jivesoftware.com/servlet/JiveServlet/showImage/102-99994-1-1023036/j.png"
+    },
+    "config": "/featured-items-with-images/configuration.html",
+    "view": "/featured-items-with-images/view.html"
+}

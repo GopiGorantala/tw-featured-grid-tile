@@ -1,0 +1,60 @@
+/* grid variables */
+/* screen */
+/* box */
+/* font */
+/* colors */
+/* line 3, ../../sass/tile-page/feature-items-image-view.scss */
+.view-title {
+    font-size: 35px;
+    margin: 0.67em 0;
+    font-weight: 200;
+    text-align: center;
+    font-family: "open sans";
+}
+
+/* line 11, ../../sass/tile-page/feature-items-image-view.scss */
+.featured-items .col-4:last-of-type,
+.featured-items .col-4:first-of-type {
+  padding-left: 0;
+  padding-right: 0;
+}
+/* line 16, ../../sass/tile-page/feature-items-image-view.scss */
+.featured-items .col-4 {
+  padding: 0;
+}
+/* line 20, ../../sass/tile-page/feature-items-image-view.scss */
+.featured-items .featured-items-item {
+  border: .5em white solid;
+  background: #603C23;
+  display: table;
+  height: 11em;
+  background-size: cover;
+  width: 100%;
+}
+/* line 28, ../../sass/tile-page/feature-items-image-view.scss */
+.featured-items .featured-items-item a {
+  display: table-cell;
+  padding: 1em;
+  vertical-align: middle;
+  width: 100%;
+  color: #FFF;
+  text-decoration: none;
+  text-align: center;
+  font-size: 1.29em;
+  font-weight: 700;
+  font-style: italic;
+  word-wrap: break-word;
+}
+/* line 41, ../../sass/tile-page/feature-items-image-view.scss */
+.featured-items .featured-items-item a:hover {
+  background: rgba(0, 0, 0, 0.2);
+}
+
+/* line 48, ../../sass/tile-page/feature-items-image-view.scss */
+#img {
+  height: 40;
+  width: 40;
+  border-radius: 100;
+  vertical-align: middle;
+  margin-right: 10;
+}
