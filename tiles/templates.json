@@ -1,8 +1,8 @@
 {
     "default": {
         "name": "defaultTemplate",
-        "displayName": "Contains: [TW-Featured Items with Images] ",
-        "description": "Extension UUID b1d9e112-e7a1-46c5-bdd0-c0772cc886ca Contains: [featured-item-with-images] ",
+        "displayName": "Contains: [Featured Items with Images] ",
+        "description": "Contains: [featured-item-with-images] ",
         "tiles": [
             "featured-item-with-images"
         ]
