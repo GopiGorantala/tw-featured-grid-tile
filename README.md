@@ -1,4 +1,4 @@
-Featured-Items-With-Images:
+##Featured-Items-With-Images:
 
 The tile is designed to share the information with images.
 You can add images as the background to the featured links/items to make the links more intuitive.
