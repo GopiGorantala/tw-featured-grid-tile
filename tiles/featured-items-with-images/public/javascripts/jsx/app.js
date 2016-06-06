@@ -134,7 +134,7 @@ var TileTitle = React.createClass({
         return (
             <div>
                 <h1 className="tile-name margin-bottom-sm">
-                    TW-Featured Items with Images
+                    Featured Items with Images
                 </h1>
                 <p className="description">
                     Display important links in a set of tiles with image backgrounds. We recommend you resize/crop your images to 400*136 for best results.
